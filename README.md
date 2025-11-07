@@ -2,10 +2,8 @@
 Simple math game made with raylib C++
 
 -- How To Compile --
-make sure you already installed raylib
-
-compile the game using this command:
+1. make sure you already installed raylib
+2. compile the game using this command
 make
-
-Run the game:
+3. Run the game
 ./BerapaKurangnya
